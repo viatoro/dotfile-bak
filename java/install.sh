@@ -10,5 +10,6 @@ brew cask install postman
 brew cask install visual-studio-code
 brew install mas
 brew cask install vlc
+brew cask install google-chrome
 mas install 539883307 #line
 exit 0
