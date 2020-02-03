@@ -12,4 +12,5 @@ brew install mas
 brew cask install vlc
 brew cask install google-chrome
 mas install 539883307 #line
+mas install 803453959 #slack
 exit 0
